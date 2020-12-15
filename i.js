@@ -16,7 +16,7 @@ const entry = {
                     __like = d.data[0].likesLength;
                     __view = d.data[0].visit;
                     __user = d.data[0].owner;
-                    if(getr == "title"){ret = __title}
+                    if(getr == "title"){ret = ___title}
                     if(getr == "id"){ret = __id}
                     if(getr == "like"){ret = __like}
                     if(getr == "view"){ret = __view}
@@ -64,7 +64,7 @@ const entry = {
                     __like = d.data[0].likesLength;
                     __view = d.data[0].visit;
                     __user = d.data[0].owner;
-                    if(getr == "title"){ret = __title}
+                    if(getr == "title"){ret = ___title}
                     if(getr == "id"){ret = __id}
                     if(getr == "like"){ret = __like}
                     if(getr == "view"){ret = __view}
@@ -112,7 +112,7 @@ const entry = {
                     __like = d.data[0].likesLength;
                     __view = d.data[0].visit;
                     __user = d.data[0].owner;
-                    if(getr == "title"){ret = __title}
+                    if(getr == "title"){ret = ___title}
                     if(getr == "id"){ret = __id}
                     if(getr == "like"){ret = __like}
                     if(getr == "view"){ret = __view}
